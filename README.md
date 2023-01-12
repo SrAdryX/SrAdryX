@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrAdryX, known in real life as Adrian Duran Guillen
+- 👋 Hi, I’m @SrAdryX
 - 👀 I’m interested in html5, css3, javascript, python and c#
 - 🌱 I’m currently Learning a lot of things
 - 💞️ I’m looking to collaborate on programing lenguage, make videogames and other things
